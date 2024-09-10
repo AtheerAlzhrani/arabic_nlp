@@ -1,7 +1,7 @@
 # Project2: Linguistic Analysis of Arabic Text Using Stanza
 
 
-*Objective:* Comprehensive linguistic analysis of the arabic text data utilizing the Stanza library.
+*Objective:* This project aims to provide comprehensive linguistic analysis of the Arabic text utilizing the Stanza library.
 
 
 **Steps Involved:**
